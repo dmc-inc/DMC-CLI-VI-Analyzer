@@ -1,17 +1,18 @@
-# Libraries
-*.lvlibp
-*.llb
-
 # Shared objects (inc. Windows DLLs)
-*.dll
 *.so
 *.so.*
 *.dylib
 
-# Executables
+# Executables/Packages
 *.exe
+*.nipkg
 
 # Metadata
 *.aliases
 *.lvlps
 .cache/
+*Builds/
+*.bldcache
+Exports
+*.cache
+*.incrb
