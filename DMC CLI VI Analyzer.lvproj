@@ -289,7 +289,7 @@
 			<Item Name="LV Config Write Pathlist.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Write Pathlist.vi"/>
 			<Item Name="LV Config Write String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Write String.vi"/>
 			<Item Name="LV Config Write.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Write.vi"/>
-			<Item Name="VIAnUI Obtain CFG Password.vi" Type="VI" URL="../../../../../Program Files/National Instruments/LabVIEW 2023/project/_VI Analyzer/analyzerui.llb/VIAnUI Obtain CFG Password.vi"/>
+			<Item Name="VIAnUI Obtain CFG Password.vi" Type="VI" URL="../../../../Program Files/National Instruments/LabVIEW 2023/project/_VI Analyzer/analyzerui.llb/VIAnUI Obtain CFG Password.vi"/>
 			<Item Name="wsock32.dll" Type="Document" URL="wsock32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
